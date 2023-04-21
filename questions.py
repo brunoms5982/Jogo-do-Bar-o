@@ -20,7 +20,7 @@ questions = [
     #3  
     {
         "question": "Quem foi o líder da Inconfidência Mineira?",
-        "answers": ["Tiradentes", "Joaquim Silvério dos Reis", "Aleijadinho", "D. Pedro I"],
+        "answers": ["Tiradentes", "Joaquim Silvério dos Reis", "Aleijadinho", "José Bonifácio"],
         "correct": 0
     },
     #4
@@ -31,15 +31,15 @@ questions = [
     },
     #5
     {
-        "question": "Qual foi o principal motivo da Guerra de Canudos?",
-        "answers": ["Conflito político", "Conflito religioso", "Conflito territorial", "Conflito ideológico"],
-        "correct": 1
+        "question": "Quem foi o principal líder da Revolução Russa de 1917?",
+        "answers": ["Lênin", "Mikhail Bakunin", "Fiódor Dostoiévski", "Josef Stalin"],
+        "correct": 0
     },
     #6
     {
-        "question": "Qual foi o papel de Dom João VI na história do Brasil?",
-        "answers": ["Transferiu a corte portuguesa para o Brasil", "Foi o primeiro imperador do Brasil", "Conquistou a região sul do país", "Aboliu a escravidão"],
-        "correct": 0
+        "question": "Em que ano ocorreu o Golpe Militar no Brasil?",
+        "answers": ["1974", "1964", "1971", "1956"],
+        "correct": 1
     },
     #7
     {
@@ -55,21 +55,21 @@ questions = [
     },
     #9
     {
-        "question": "Qual foi o principal motivo do Golpe Militar de 1964?",
-        "answers": ["Combate ao comunismo", "Reforma agrária", "Reforma política", "Reforma trabalhista"],
-        "correct": 0
+        "question": "Em que ano ocorreu a Revolução Francesa?",
+        "answers": ["1814", "1777", "1789", "1794"],
+        "correct": 2
     },
     #10
     {
-        "question": "Qual foi o presidente do Brasil durante a abertura política?",
-        "answers": ["Ernesto Geisel", "Emílio Médici", "João Figueiredo", "Fernando Henrique"],
+        "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "answers": ["John Adams", "Thomas Jefferson", "George Washington", "Abraham Lincoln"],
         "correct": 2
     },
     #11
     {
-        "question": "Qual foi o movimento que defendeu a criação de um país exclusivo para negros?",
-        "answers": ["Movimento Negro", "Pan-Africanismo", "Movimento Nacionalista", "Consciência Negra"],
-        "correct": 1
+        "question": "Quem foi o líder da Revolução Cubana?",
+        "answers": ["Che Guevara", "Hugo Chávez", "Fidel Castro", "Augusto Pinochet"],
+        "correct": 2
     },
     #12
         {
@@ -79,15 +79,15 @@ questions = [
     },
     #13
     {
-        "question": "Qual foi o programa econômico adotado pelo governo de Fernando Collor?",
-        "answers": ["Plano Collor", "Plano Cruzado", "Plano Real", "Plano Verão"],
-        "correct": 0
-    },
-    #14
-    {
-        "question": "Qual foi o primeiro presidente do Brasil a ser eleito por meio do voto popular?",
-        "answers": ["Jânio Quadros", "João Goulart", "Juscelino Kubitschek", "Eurico Gaspar Dutra"],
+        "question": "Qual foi o principal objetivo da Lei Áurea, promulgada em 1888?",
+        "answers": ["Estabelecer o voto universal no Brasil", "Promover a educação pública no país", "Abolir a escravidão no Brasil", "Estabelecer a república no Brasil"],
         "correct": 2
+    },
+    #14 
+    {
+        "question": "Quem foi o principal líder da Revolta da Chibata?",
+        "answers": ["Getúlio Vargas", "Rui Barbosa", "Júlio Prestes", "João Cândido"],
+        "correct": 3
     },
     #15
     {
@@ -98,20 +98,20 @@ questions = [
     #16
     {
         "question": "Quando foi proclamada a independência do Brasil?",
-        "answers": ["1822", "1808", "1835", "1848"],
-        "correct": 0
+        "answers": ["1808", "1835", "1848", "1822"],
+        "correct": 3
     },
     #17
     {
-        "question": "Qual foi o nome do programa social criado durante o governo de Fernando Henrique Cardoso?",
-        "answers": ["Bolsa Família", "Fome Zero", "Projeto Renda Cidadã", "Plano Real"],
-        "correct": 1
-    },
-    #18
-    {
-        "question": "Qual foi o motivo da renúncia do presidente Jânio Quadros?",
-        "answers": ["Crise política", "Crise econômica", "Motivos de saúde", "Pressão popular"],
+        "question": "Qual foi a primeira guerra televisionada da história?",
+        "answers": ["Guerra do Iraque", "Guerra Fria", "Guerra Santa", "Guerra do Golfo"],
         "correct": 3
+    },
+    #18 
+    {
+        "question": "A cachaça foi inventada no Brasil na era colonial, por quem?",
+        "answers": ["Portugueses", "Escravos", "Índios", "Jesuítas"],
+        "correct": 1
     },
     #19
     {
@@ -119,29 +119,29 @@ questions = [
         "answers": ["Plano Cruzado", "Plano Collor", "Plano Real", "Plano Verão"],
         "correct": 2
     },
-    #20
+    #20 
     {
-        "question": "Qual foi o motivo da cassação do mandato do presidente João Goulart?",
-        "answers": ["Corrupção", "Crise econômica", "Pressão militar", "Crise política"],
+        "question": "Liberdade, Igualdade e Fraternidade, foi o lema de qual revolução?",
+        "answers": ["Russa", "Francesa", "Chinesa", "Cubana"],
+        "correct": 1
+    },
+    #21 
+    {
+        "question": "Em 1500, como os portugueses chamavam o Brasil?",
+        "answers": ["Terra de Santa Cruz", "Terra de Salvador", "Terra de Vera Cruz", "Terra de Tupiniquim"],
         "correct": 2
     },
-    #21
+    #2
     {
-        "question": "Qual foi o nome do líder da Guerra do Paraguai?",
-        "answers": ["Duque de Caxias", "Tiradentes", "Dom Pedro II", "José Bonifácio"],
-        "correct": 0
-    },
-    #22
-    {
-        "question": "Qual foi o nome do plano econômico criado durante o governo de Fernando Collor?",
-        "answers": ["Plano Collor", "Plano Cruzado", "Plano Real", "Plano Verão"],
-        "correct": 0
+        "question": "Qual foi a segunda capital do Brasil?",
+        "answers": ["Salvador", "Rio de Janeiro", "Brasília", "Belo Horizonte"],
+        "correct": 1
     },
     #23
     {
-        "question": "Qual era o objetivo principal da expedição de Pedro Álvares Cabral ao Brasil?",
-        "answers": ["Estabelecer relações comerciais com a Índia", "Explorar novas terras", "Encontrar metais preciosos", "Conquistar novos territórios"],
-        "correct": 0
+        "question": "Qual o nome do ato institucional que fechou o Congresso?",
+        "answers": ["AI-14", "AI-4", "AI-10", "AI-5"],
+        "correct": 3
     },
     #24
     {
@@ -159,37 +159,37 @@ questions = [
 {
     "correct": 1,
     "question": "Quem foi o líder do Estado Novo?",
-    "answers": ["Juscelino Kubitschek","Getúlio Vargas", "João Goulart", "Eurico Gaspar Dutra"]
+    "answers": ["Juscelino Kubitschek", "Getúlio Vargas", "João Goulart", "Eurico Gaspar Dutra"]
 },
     #27
 {
     "correct": 0,
     "question": "Qual foi o nome do plano econômico criado durante o governo de José Sarney?",
-    "answers": ["Plano Cruzado", "Plano Collor", "Plano Real", "Plano Verão"]
+    "answers": ["Plano Cruzado", "Plano de Metas", "Plano Real", "Plano SALTE"]
 },
-    #28
+    #28 /////////////
 {
     "correct": 2,
-    "question": "Qual foi o nome do programa social criado durante o governo de Fernando Collor?",
-    "answers": ["Bolsa Família", "Fome Zero", "Projeto Renda Cidadã", "Educação para Todos"]
+    "question": "Qual país invadiu o Brasil pela região de Pernambuco em 1637?",
+    "answers": ["Inglaterra", "Espanha", "Holanda", "Estados Unidos"]
 },
-    #29
+    #29 //////////////////
 {
-    "correct": 1,
-    "question": "Qual foi o nome do programa social criado durante o governo de Fernando Henrique Cardoso para combater a fome no país?",
-    "answers": ["Bolsa Família", "Fome Zero", "Minha Casa Minha Vida", "Pronatec"]
+    "correct": 2,
+    "question": "Em que ano ocorreu a inaguração de Brasília?",
+    "answers": ["1958", "1968", "1960", "1971"]
 },
-    #30
+    #30 ////////////////
 {
     "correct": 0,
-    "question": "Qual foi o nome do plano econômico criado durante o governo de Itamar Franco para controlar a inflação?",
-    "answers": ["Plano Real", "Plano Cruzado", "Plano Collor", "Plano Verão"]
+    "question": "Quem foram os primeiros catequistas dos indígenas no Brasil Colonial?",
+    "answers": ["Carmelitas", "Franciscanos", "Beneditanos", "Jesuítas"]
 },
-    #31
+    #31 /////////////////
 {
     "correct": 1,
-    "question": "Qual foi o papel de Monteiro Lobato na história da literatura brasileira?",
-    "answers": ["Auxiliar na criação do Modernismo", "Incentivar a leitura" ,"Promover o romantismo", "Estimular a poesia"]
+    "question": "Qual ano iniciou e terminou a Primeira Guerra Mundial?",
+    "answers": ["1910 a 1913", "1914 a 1918" , "1939 a 1945", "1915 a 1920"]
 }]
     
 
